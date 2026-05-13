@@ -11,7 +11,7 @@ I've been making commercial video games since 2012.
 * At CrazyBunch, we did, among other things, contract work for Daedalic Entertainment
     * We helped develop the game [Anna's Quest](https://en.wikipedia.org/wiki/Anna%27s_Quest) (wikipedia)
     * We did the iOS ports of [A new Beginning](https://en.wikipedia.org/wiki/A_New_Beginning_(video_game)) (wikipedia) and [Ken Follet's The Pillars of the Earth](https://en.wikipedia.org/wiki/Ken_Follett%27s_The_Pillars_of_the_Earth) (wikipedia).
-* We also made the virtual reality games [KryptCrawler](https://www.youtube.com/watch?v=mTW3GS6sSbk) (youtube) and [Relaxing VR Games: Mahjong](https://www.youtube.com/watch?v=_vMDciSosgA) (youtube)
+* We also made the virtual reality games [Break-A-Brick](https://www.youtube.com/watch?v=eB7uI2v-0DM&list=PLASB95tIGU4B5S6m0AvVujixHYgLA0OL_&index=8) (youtube), [KryptCrawler](https://www.youtube.com/watch?v=mTW3GS6sSbk) (youtube) and [Relaxing VR Games: Mahjong](https://www.youtube.com/watch?v=_vMDciSosgA) (youtube)
 * In 2018 CrazyBunch released a new entry in the Leisure Suit Larry series, [Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don%27t_Dry) (wikipedia),  which was followed by a sequel [Leisure Suit Larry : Wet Dreams Dry Twice](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Dry_Twice) (wikipedia) in 2020
 * In 2025, CrazyBunch released their most recent game Tattoo Tycoon.
 * I left CrazyBunch in October 2025.
