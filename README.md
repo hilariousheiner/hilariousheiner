@@ -16,7 +16,7 @@ I've been making commercial video games since 2012.
 * In 2025, CrazyBunch released their most recent game Tattoo Tycoon.
 * I left CrazyBunch in October 2025.
 
-You can find a playlist with one per video for each game I worked on 
+You can find a playlist with one video for each game I worked on 
 on my [youtube channel](https://www.youtube.com/playlist?list=PLASB95tIGU4B5S6m0AvVujixHYgLA0OL_) (youtube).
 
 At CrazyBunch, I mostly worked with the Unity3D engine. <br>
