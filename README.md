@@ -23,7 +23,7 @@ At CrazyBunch, I mostly worked with the Unity3D engine. <br>
 I like making tools for artists and game designers and I have a lot of experience writing editor extensions for unity. <br>
 I also enjoy software engineering and architecture and put a lot of work into the CrazyBunch internal code base which we started all the way back in 2014 and kept improving for each game we made. <br>
 The code base contains a visual scripting language which I designed and implemented. <br> 
-I also worked on the AI for most of CrazyBunch's games, including path finding for Leisure Larry and the Customer and Staff AI for Tattoo Tycoon. 
+I also worked on the AI for most of CrazyBunch's games, including path finding for Leisure Larry and the customer and staff AI for Tattoo Tycoon. 
 
 
 <!--
